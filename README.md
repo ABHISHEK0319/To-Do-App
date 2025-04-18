@@ -1,6 +1,8 @@
 # 📘 Project: To-Do App v2 (Using Provider)
 
-##g
+## ✅ Objectives: 
+   - Add/remove to-dos 
+   - Mark them completed
    - Use Provider + ChangeNotifier for state
    - No local DB
 
